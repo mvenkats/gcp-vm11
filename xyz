@@ -1,4 +1,4 @@
-ping -C3 google.com
-ping -C3 gitlab.com
-ping -C4 ncodeit.com
-find /etc *
+ping -c 3 google.com
+ping -c 3 gitlab.com
+ping -c 4 ncodeit.com
+#find /etc *
